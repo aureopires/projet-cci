@@ -10,3 +10,4 @@
 
 ## Style de commit
  - On a du style
+ - tout est refait
